@@ -4,6 +4,8 @@
 
 ![](http://881023.top/image/RotatePassword.gif)
 
+![](http://881023.top/image/RotatePassword2.jpg)
+
 ## 说明
 
 研究自定义view的产出项目。
